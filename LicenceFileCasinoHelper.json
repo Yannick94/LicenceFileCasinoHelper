@@ -1,0 +1,10 @@
+{
+"Users": [
+		{
+          "uuid": "asdf",
+          "functions": {
+            "autoWerbung": true
+          }
+        }
+	]
+}
